@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/2soul2.github.io/static/css/main.893edcf0.chunk.css",
-    "main.js": "/2soul2.github.io/static/js/main.6f252c79.chunk.js",
-    "main.js.map": "/2soul2.github.io/static/js/main.6f252c79.chunk.js.map",
-    "runtime-main.js": "/2soul2.github.io/static/js/runtime-main.e9c98a4b.js",
-    "runtime-main.js.map": "/2soul2.github.io/static/js/runtime-main.e9c98a4b.js.map",
-    "static/js/2.d08346e1.chunk.js": "/2soul2.github.io/static/js/2.d08346e1.chunk.js",
-    "static/js/2.d08346e1.chunk.js.map": "/2soul2.github.io/static/js/2.d08346e1.chunk.js.map",
-    "index.html": "/2soul2.github.io/index.html",
-    "static/css/main.893edcf0.chunk.css.map": "/2soul2.github.io/static/css/main.893edcf0.chunk.css.map",
-    "static/js/2.d08346e1.chunk.js.LICENSE.txt": "/2soul2.github.io/static/js/2.d08346e1.chunk.js.LICENSE.txt",
-    "static/media/HeaderStyle.css": "/2soul2.github.io/static/media/ArcoJapones.c18992c7.jpg",
-    "static/media/Guts.b4590387.png": "/2soul2.github.io/static/media/Guts.b4590387.png",
-    "static/media/LocalAsiatico.a5ab785e.jpg": "/2soul2.github.io/static/media/LocalAsiatico.a5ab785e.jpg",
-    "static/media/itachi.7c117c9c.png": "/2soul2.github.io/static/media/itachi.7c117c9c.png",
-    "static/media/musicaJaponesa.13350f73.mp3": "/2soul2.github.io/static/media/musicaJaponesa.13350f73.mp3"
+    "main.css": "/static/css/main.cf4abebf.chunk.css",
+    "main.js": "/static/js/main.e68f54b0.chunk.js",
+    "main.js.map": "/static/js/main.e68f54b0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0733fe2d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0733fe2d.js.map",
+    "static/js/2.2d0ac3cd.chunk.js": "/static/js/2.2d0ac3cd.chunk.js",
+    "static/js/2.2d0ac3cd.chunk.js.map": "/static/js/2.2d0ac3cd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cf4abebf.chunk.css.map": "/static/css/main.cf4abebf.chunk.css.map",
+    "static/js/2.2d0ac3cd.chunk.js.LICENSE.txt": "/static/js/2.2d0ac3cd.chunk.js.LICENSE.txt",
+    "static/media/HeaderStyle.css": "/static/media/ArcoJapones.c18992c7.jpg",
+    "static/media/Guts.b4590387.png": "/static/media/Guts.b4590387.png",
+    "static/media/LocalAsiatico.a5ab785e.jpg": "/static/media/LocalAsiatico.a5ab785e.jpg",
+    "static/media/itachi.7c117c9c.png": "/static/media/itachi.7c117c9c.png",
+    "static/media/musicaJaponesa.13350f73.mp3": "/static/media/musicaJaponesa.13350f73.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9c98a4b.js",
-    "static/js/2.d08346e1.chunk.js",
-    "static/css/main.893edcf0.chunk.css",
-    "static/js/main.6f252c79.chunk.js"
+    "static/js/runtime-main.0733fe2d.js",
+    "static/js/2.2d0ac3cd.chunk.js",
+    "static/css/main.cf4abebf.chunk.css",
+    "static/js/main.e68f54b0.chunk.js"
   ]
 }
