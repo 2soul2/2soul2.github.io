@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf4abebf.chunk.css",
-    "main.js": "/static/js/main.69e9623c.chunk.js",
-    "main.js.map": "/static/js/main.69e9623c.chunk.js.map",
+    "main.css": "/static/css/main.212ef20e.chunk.css",
+    "main.js": "/static/js/main.7abc7340.chunk.js",
+    "main.js.map": "/static/js/main.7abc7340.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0733fe2d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0733fe2d.js.map",
     "static/js/2.2d0ac3cd.chunk.js": "/static/js/2.2d0ac3cd.chunk.js",
     "static/js/2.2d0ac3cd.chunk.js.map": "/static/js/2.2d0ac3cd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cf4abebf.chunk.css.map": "/static/css/main.cf4abebf.chunk.css.map",
+    "static/css/main.212ef20e.chunk.css.map": "/static/css/main.212ef20e.chunk.css.map",
     "static/js/2.2d0ac3cd.chunk.js.LICENSE.txt": "/static/js/2.2d0ac3cd.chunk.js.LICENSE.txt",
     "static/media/HeaderStyle.css": "/static/media/ArcoJapones.c18992c7.jpg",
-    "static/media/Guts.b4590387.png": "/static/media/Guts.b4590387.png",
-    "static/media/LocalAsiatico.a5ab785e.jpg": "/static/media/LocalAsiatico.a5ab785e.jpg",
-    "static/media/itachi.7c117c9c.png": "/static/media/itachi.7c117c9c.png",
-    "static/media/musicaJaponesa.3eced58f.mp3": "/static/media/musicaJaponesa.3eced58f.mp3"
+    "static/media/YujiItadori.f92a93da.png": "/static/media/YujiItadori.f92a93da.png",
+    "static/media/escenaManga.3d6a20a0.jpg": "/static/media/escenaManga.3d6a20a0.jpg",
+    "static/media/musicaJaponesa.3eced58f.mp3": "/static/media/musicaJaponesa.3eced58f.mp3",
+    "static/media/personajesManga.e0096f93.png": "/static/media/personajesManga.e0096f93.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0733fe2d.js",
     "static/js/2.2d0ac3cd.chunk.js",
-    "static/css/main.cf4abebf.chunk.css",
-    "static/js/main.69e9623c.chunk.js"
+    "static/css/main.212ef20e.chunk.css",
+    "static/js/main.7abc7340.chunk.js"
   ]
 }
